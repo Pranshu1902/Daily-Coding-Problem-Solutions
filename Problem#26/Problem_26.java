@@ -5,9 +5,7 @@ public class Problem_26{
         List<Integer> input = new ArrayList<Integer>();
         input.add(10);input.add(20);input.add(30);input.add(40);input.add(50);input.add(60);
         List<Integer> result = Solution(input, 3);
-        for (int i : result){
-            System.out.print(i+" ");
-        }
+        System.out.println(result);
     }
     public static List<Integer> Solution(List<Integer> inp, int k){
         int i = inp.size()-k;
