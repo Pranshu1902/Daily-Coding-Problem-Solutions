@@ -1,7 +1,6 @@
 import java.util.*;
 public class Problem_29{
     public static void main (String[] args){
-        System.out.println("CS is fun at Google");
         String result = Coding("AAAABBBCCDAA");
         System.out.println(result);
         String ans = Decoding("4A3B2C1D2A");
