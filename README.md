@@ -1,3 +1,3 @@
 # Daily-Coding-Problem-Solutions
 
-#Here you will find all the java solution codes for the daily coding problems.
+#Here you will find all the java or python solution codes for the daily coding problems.
